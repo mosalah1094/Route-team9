@@ -1,0 +1,17 @@
+
+
+img
+{
+    width: 100%;
+    height: 800px;
+}
+
+.mo
+{
+    position: relative;
+}
+.tittle .mo
+{
+    position: absolute;
+    margin-top: 30px;
+}
